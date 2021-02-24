@@ -1,0 +1,13 @@
+<h1>Conceitos explorados no projeto em base no curso de API Django-rest do Alura</h1>
+-Limite de requisitos anônimas e autenticados
+-CORS
+-Versionamento
+-Modelo de maturidade de Richardson
+-Segurança
+-Configurando projeto para Deploy no Heroku
+-Arquivos estáticos
+-Caching
+-Redis no Django
+-I18N
+-Content Negotiation
+-Testes

@@ -6,7 +6,6 @@
 <p>Versionamento</p>
 <p>Modelo de maturidade de Richardson</p>
 <p>Segurança</p>
-<p>Configurando projeto para Deploy no Heroku</p>
 <p>Arquivos estáticos</p>
 <p>Caching</p>
 <p>Redis no Django</p>
